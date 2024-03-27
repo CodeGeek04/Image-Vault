@@ -1,8 +1,45 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Image Vault
+
+Image Vault is a secure solution for saving and retrieving images into an AWS S3 bucket. It provides a simple interface for users to securely store their images and access them whenever needed.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Environment Variables](#environment-variables)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Image Vault is a React Native application that allows users to securely store and retrieve images in an AWS S3 bucket. It offers a user-friendly interface for uploading and downloading images, making it convenient for users to manage their image files securely.
+
+## Features
+
+- Securely upload images to an AWS S3 bucket
+- Retrieve images from the AWS S3 bucket
+- User-friendly interface for managing images
+
+## Installation
+
+To run Image Vault locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Install dependencies using npm or yarn:
+
+```bash
+npm install
+# or
+yarn install
+```
 
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+## Step 0: Set up the required environment variables in a .env file in the root directory of the project.
 
 ## Step 1: Start the Metro Server
 
