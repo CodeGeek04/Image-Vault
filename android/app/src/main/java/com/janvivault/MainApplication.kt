@@ -1,4 +1,4 @@
-package com.janvivault
+package com.Imagevault
 
 import android.app.Application
 import com.facebook.react.PackageList

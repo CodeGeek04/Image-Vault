@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "JanviVault.app"
-               BlueprintName = "JanviVault"
-               ReferencedContainer = "container:JanviVault.xcodeproj">
+               BuildableName = "ImageVault.app"
+               BlueprintName = "ImageVault"
+               ReferencedContainer = "container:ImageVault.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "JanviVaultTests.xctest"
-               BlueprintName = "JanviVaultTests"
-               ReferencedContainer = "container:JanviVault.xcodeproj">
+               BuildableName = "ImageVaultTests.xctest"
+               BlueprintName = "ImageVaultTests"
+               ReferencedContainer = "container:ImageVault.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "JanviVault.app"
-            BlueprintName = "JanviVault"
-            ReferencedContainer = "container:JanviVault.xcodeproj">
+            BuildableName = "ImageVault.app"
+            BlueprintName = "ImageVault"
+            ReferencedContainer = "container:ImageVault.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "JanviVault.app"
-            BlueprintName = "JanviVault"
-            ReferencedContainer = "container:JanviVault.xcodeproj">
+            BuildableName = "ImageVault.app"
+            BlueprintName = "ImageVault"
+            ReferencedContainer = "container:ImageVault.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
