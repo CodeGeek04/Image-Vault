@@ -1,16 +1,16 @@
-# Image Vault
+# 🖼️ Image Vault
 
 Image Vault is a secure solution for saving and retrieving images into an AWS S3 bucket. It provides a simple interface for users to securely store their images and access them whenever needed.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Environment Variables](#environment-variables)
-- [Contributing](#contributing)
-- [License](#license)
+- [📝 Introduction](#introduction)
+- [✨ Features](#features)
+- [⚙️ Installation](#installation)
+- [🚀 Usage](#usage)
+- [🔧 Environment Variables](#environment-variables)
+- [🤝 Contributing](#contributing)
+- [📄 License](#license)
 
 ## Introduction
 
